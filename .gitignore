@@ -1,0 +1,7 @@
+# Archivos y carpetas de RStudio
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+01_download_pm25/output/
